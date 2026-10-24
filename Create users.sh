@@ -2,7 +2,7 @@
 
 ## 📜 3. Fail: `create_users.sh`
 
-See on koodifail, millega kasutasid kasutajate automaatset loomist.
+See on koodifail, millega kasutasin kasutajate automaatset loomist.
 
 ```bash
 #!/bin/bash
