@@ -14,6 +14,6 @@ for i in {1..14}
 do
     USERNAME="devuser$i"
     useradd -m -g developers -s /bin/bash "$USERNAME"
-    echo "$USERNAME:Parool123!" | chpasswd
+    echo "$USERNAME:1212" | chpasswd
     echo "Kasutaja $USERNAME loodud."
 done
